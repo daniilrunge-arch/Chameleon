@@ -35,3 +35,4 @@ None
     }
   ]
 }
+The code was recompiled to avoid using I18n in cases where a different language is set on the server.

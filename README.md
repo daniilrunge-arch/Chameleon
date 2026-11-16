@@ -1,4 +1,4 @@
-# Chameleon 
+# Chameleon "The code was recompiled to avoid using I18n in cases where a different language is set on the server."
 
 - Author: mistzzt, repaired by 肝帝熙恩 for issue 1449
 - Players entering the server for the first time will receive a prompt and be asked to log out and log back in.
